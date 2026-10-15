@@ -1,0 +1,120 @@
+{
+  "projects": [
+    {
+      "slug": "ledger-mobile-banking",
+      "title": "Ledger",
+      "industry": "Fintech",
+      "categories": [
+        "Mobile apps",
+        "UX research"
+      ]
+    },
+    {
+      "slug": "pulse-health",
+      "title": "Pulse",
+      "industry": "Health",
+      "categories": [
+        "Mobile apps",
+        "Web apps & SaaS"
+      ]
+    },
+    {
+      "slug": "fieldwork-design-system",
+      "title": "Fieldwork",
+      "industry": "Productivity",
+      "categories": [
+        "Design systems",
+        "Web apps & SaaS"
+      ]
+    },
+    {
+      "slug": "atlas-analytics",
+      "title": "Atlas",
+      "industry": "Productivity",
+      "categories": [
+        "Web apps & SaaS",
+        "UX research"
+      ]
+    },
+    {
+      "slug": "basket-checkout",
+      "title": "Basket",
+      "industry": "E-commerce",
+      "categories": [
+        "Mobile apps",
+        "Web apps & SaaS"
+      ]
+    },
+    {
+      "slug": "transit-trip-planner",
+      "title": "Transit",
+      "industry": "Mobility",
+      "categories": [
+        "Mobile apps",
+        "UX research"
+      ]
+    },
+    {
+      "slug": "learnloop",
+      "title": "Learnloop",
+      "industry": "Education",
+      "categories": [
+        "Web apps & SaaS",
+        "Mobile apps"
+      ]
+    },
+    {
+      "slug": "spatial-concepts",
+      "title": "Spatial UI studies",
+      "industry": "Media",
+      "categories": [
+        "Concepts & experiments"
+      ]
+    }
+  ],
+  "categories": [
+    "Mobile apps",
+    "Web apps & SaaS",
+    "Design systems",
+    "UX research",
+    "Concepts & experiments"
+  ],
+  "industries": [
+    "Fintech",
+    "Health",
+    "E-commerce",
+    "Mobility",
+    "Productivity",
+    "Education",
+    "Travel",
+    "Media"
+  ],
+  "locations": [],
+  "nextPage": {
+    "/": {
+      "label": "See the work",
+      "href": "/works"
+    },
+    "/works": {
+      "label": "About me",
+      "href": "/about-us"
+    },
+    "/about-us": {
+      "label": "My experience",
+      "href": "/resume"
+    },
+    "/resume": {
+      "label": "Get in touch",
+      "href": "/contact-us"
+    },
+    "/contact-us": {
+      "label": "See the work",
+      "href": "/works"
+    },
+    "/legal-notice": {
+      "label": "Back to the start",
+      "href": "/"
+    }
+  },
+  "email": "invensibleaziz@gmail.com"
+}
